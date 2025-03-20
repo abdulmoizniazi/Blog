@@ -1,15 +1,8 @@
 # Blog Website
 
 ## Overview
-This is a blog website designed to provide an engaging platform for sharing insightful content related to programming, technology, and tutorials. It offers a structured and user-friendly experience for readers and contributors alike.
+This is a blog website built with Django framework
 
-## Features
-- Responsive and modern design
-- Categorized blog posts for easy navigation
-- Search functionality to find relevant content
-- Commenting system for user engagement
-- Dark mode support for better readability
-- SEO-optimized structure
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript 
