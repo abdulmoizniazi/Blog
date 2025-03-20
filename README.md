@@ -22,7 +22,7 @@ This is a blog website built with Django framework
 3. Install dependencies:
    ```sh
    pip install -r requirements.txt  # For Python-based backend
-   npm install  # If using a JavaScript framework
+   
    ```
 4. Run the application:
    ```sh
